@@ -20,4 +20,4 @@
 
 ## 블로그
 
-ljweel.github.io//posts/xv6/ 에서 환경 설정 및 과제 풀이를 작성합니다.
+https://ljweel.github.io//posts/xv6/ 에서 환경 설정 및 과제 풀이를 작성합니다.
